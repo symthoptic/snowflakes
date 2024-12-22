@@ -1,5 +1,5 @@
 info:
-  name: "OpemSnowFlakes"
+  name: "OpenSnowFlakes"
   identifier: "opensnowflakes"
   description: "Add snowflakes to your Pterodactyl dashboard."
   flags: ""
