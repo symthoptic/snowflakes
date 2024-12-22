@@ -1,0 +1,27 @@
+info:
+  name: "Snowflakes"
+  identifier: "opensnowflakes"
+  description: "Add snowflakes to your Pterodactyl dashboard."
+  flags: ""
+  version: "1.0"
+  target: "alpha-NLM"
+  author: "Symthoptic"
+  icon: ":public/icon.jpg"
+  website: "https://github.com/Symthoptic/snowflakes"
+
+admin:
+  view: ":admin/view.blade.php"
+  controller: ""
+  css: ""
+  wrapper: ":admin/wrapper.blade.php"
+
+dashboard:
+  css: ""
+  wrapper: ":dashboard/wrapper.blade.php"
+
+data:
+  directory: ""
+  public: ":public"
+
+database:
+  migrations: ""
